@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projeto_ISAIAS_LUIZ_DMOS5</string>
+    <string name="houses_txt">Casas em hogwarts</string>
+    <string name="default_error_msg">Aconteceu um erro inesperado</string>
+    <string name="request_internet_msg">Para usar o aplicativo é preciso acesso a internet</string>
+    <string name="yes_msg">Sim</string>
+    <string name="not_msg">Não</string>
+    <string name="close_msg">Fechar</string>
+    <string name="persons_house_txt">Personagens da casa</string>
+</resources>
